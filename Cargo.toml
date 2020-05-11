@@ -6,7 +6,7 @@ edition = "2018"
 readme = "README.md"
 description = "Helper macro/function to create function chaining"
 repository = "https://github.com/NattapongSiri/fn_chain"
-license-file = "LICENSE"
+license = "BSD-3-Clause"
 keywords = ["helper", "chain", "functions", "chaining", "pattern"]
 categories = ["development-tools", "rust-patterns"]
 
