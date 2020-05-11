@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Nattapong Sirilappanich <s.nattapong@gmail.com>"]
 edition = "2018"
 description = "Helper macro/function to create function chaining"
-license = "BSD-3-Clause"
 repository = "https://github.com/NattapongSiri/fn_chain"
 license-file = "LICENSE"
 keywords = ["helper", "chain", "functions", "chaining", "pattern"]
