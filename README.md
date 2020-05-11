@@ -3,6 +3,8 @@ This trait provide helper function and macro called `chain` to ease chaining of 
 
 ## Use case 1 - Macro `chain`
 ```rust
+use fn_chain::chain;
+
 fn simple_add(a : i32, b : i32, c : i32) -> i32 {
     a + b + c
 }
